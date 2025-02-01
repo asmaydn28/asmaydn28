@@ -1,16 +1,23 @@
-## Hi there 👋
+🌟 Asım Aydın | Junior Full-Stack Developer
 
-<!--
-**asmaydn28/asmaydn28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Hakkımda
+Merhaba! Ben Asım Aydın, Full-Stack Developer olma yolunda ilerleyen bir geliştiriciyim. Şu an HTML, CSS, JavaScript, Sass ve Bootstrap 5 teknolojilerini öğreniyorum ve projeler geliştiriyorum.
 
-Here are some ideas to get you started:
+💡 Öğrenirken üreten biri olarak, açık kaynak dünyasında yer almaktan keyif alıyorum ve öğrendiklerimi projelerle pekiştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 Hedefim: Frontend ve backend becerilerimi geliştirerek güçlü ve performanslı web uygulamaları oluşturmak.
+
+
+🚀 Kullandığım Teknolojiler
+🔹 HTML 🟠
+🔹 CSS 🔵
+🔹 Bootstrap 🟣
+🔹 Sass 💗
+🔹 JavaScript 💛
+
+
+📫 Bana Ulaşın!
+📧 E-posta: asmaydn2828@gmail.com
+💼 LinkedIn: www.linkedin.com/in/asımaydın
+
+👨‍💻 Kod yazmaya ve öğrenmeye devam! 🚀✨
