@@ -3,7 +3,7 @@
 
 🚀 Hakkımda
 
-Merhaba! Ben Asım Aydın, Full-Stack Developer olma yolunda ilerleyen bir geliştiriciyim. Şu an HTML, CSS, JavaScript, Sass ve Bootstrap 5 teknolojilerini öğreniyorum ve projeler geliştiriyorum.
+Merhaba! Ben Asım Aydın, Full-Stack Developer olma yolunda ilerleyen bir geliştiriciyim. Şu an HTML, CSS, JavaScript ve Bootstrap 5 teknolojilerini öğreniyorum ve projeler geliştiriyorum.
 
 💡 Öğrenirken üreten biri olarak, açık kaynak dünyasında yer almaktan keyif alıyorum ve öğrendiklerimi projelerle pekiştiriyorum.
 
