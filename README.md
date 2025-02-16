@@ -9,15 +9,20 @@ Merhaba! Ben Asım Aydın, Full-Stack Developer olma yolunda ilerleyen bir geli�
 
 
 🚀 Kullandığım Teknolojiler
+
 🔹 HTML 🟠
+
 🔹 CSS 🔵
+
 🔹 Bootstrap 🟣
-🔹 Sass 💗
+
 🔹 JavaScript 💛
 
 
 📫 Bana Ulaşın!
+
 📧 E-posta: asmaydn2828@gmail.com
+
 💼 LinkedIn: www.linkedin.com/in/asımaydın
 
 👨‍💻 Kod yazmaya ve öğrenmeye devam! 🚀✨
