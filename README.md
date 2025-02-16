@@ -16,7 +16,7 @@ Merhaba! Ben Asım Aydın, Full-Stack Developer olma yolunda ilerleyen bir geli�
 
 🔹 CSS 🔵
 
-🔹 Bootstrap 🟣
+🔹 Bootstrap 5 🟣
 
 🔹 JavaScript 💛
 
