@@ -23,7 +23,7 @@ Merhaba! Ben Asım Aydın, Full-Stack Developer olma yolunda ilerleyen bir geli�
 
 📫 Bana Ulaşın!
 
-📧 E-posta: asmaydn2828@gmail.com
+📧 E-posta: asimaydin.dev@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/asımaydın
 
